@@ -1148,6 +1148,12 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
     <img loading="lazy" src="EXAMPLES/reskimulud.webp">
   </details>
 
+- [Rohit Shrivastava](https://github.com/EngineerRohit01)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="https://github.com/EngineerRohit01">
+  </details>
+
 - [Rohit Kumar Saini](https://github.com/rockingrohit9639)
   <details>
     <summary>Preview</summary>
